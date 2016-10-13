@@ -11,4 +11,4 @@ before_script:
 
 script: 
    - cd edades
-   - lettuce test/
+   - lettuce tests/
